@@ -1,0 +1,195 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #01010e;
+    margin: 0;
+    padding: 0;
+}
+
+.cajaUno {
+    background-color: #0d1025;
+    height: 150px;
+}
+
+.title {
+    margin-top: 20px;
+    width: 300px;
+}
+
+.menu {
+    background-color: #22242A;
+    height: 83px;
+}
+
+.inicio {
+    width: 100px;
+    height: 27;
+}
+
+.cajaDos {
+    background-color: #01010e;
+    height: 400px;
+}
+
+.cajaDoscop {
+    background-color: #01010e;
+    height: 200px;
+}
+
+.from {
+    width: 350px;
+    height: 230px;
+    margin-top: 100px;
+}
+
+.froma {
+    width: 320px;
+    height: 170px;
+    margin-top: 80px;
+}
+
+.cajaTres {
+    background-color:#01010e;
+    height: 450px;
+    margin-top: 50px;
+}
+
+p:hover {
+    color: #968dc2;
+    transform: scale(1.2);
+}
+
+.texto {
+    text-align: center;
+    width: 700px;
+    height: 20px;
+    padding: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 80px;
+}
+
+.cajaCuatro {
+    background-color: #0d1025;
+    height: 350px;
+    border-radius: 7px;
+}
+
+.cajaCinco:hover {
+    background-color: #020522;
+    height: 350px;
+    transform: scale(1.1);
+}
+
+.tec {
+    margin-top: 130px;
+}
+
+.cajaSeis {
+    background-color: #0d1025;
+    height: 350px;
+    border-radius: 7px;
+}
+
+.ani {
+    margin-top: 140px;
+}
+
+.cajaSiete {
+    background-color: #000000;
+    height: 100px;
+}
+
+.cajaOcho:hover {
+    background-color: #01010e;
+    height: 390px;
+    transform: scale(1.1);
+}
+
+.titulos {
+    text-align: center;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
+
+h1 {
+    color: #7678e4;
+    margin-top: 6px;
+}
+
+.cajaNueve:hover {
+    background-color: #01010e;
+    height: 390px;
+    transform: scale(1.1);
+}
+
+.cajaDiez:hover {
+    background-color: #01010e;
+    height: 390px;
+    transform: scale(1.1);
+}
+
+.cajaOnce {
+    background-color: #000000;
+    height: 200px;
+}
+
+.imag1 {
+    margin-top: 40px;
+}
+
+.imag3 {
+    margin-top: 40px;
+}
+
+.cajaDoce {
+    background-color: #01010e;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.logos {
+    margin-top: 36px;
+    margin-left: 25px;
+}
+
+.cajaTrece {
+    background-color: #01010e;
+    height: 150px;
+}
+
+.imglog {
+    margin-top: 36px;
+    margin-right: 25px;
+}
+
+.cajaCatorce {
+    background-color: #010220;
+    height: 50px;
+}
+
+.cajaQuince {
+    background-color: #010a16;
+    height: 50px;
+}
+
+.cajaDieciseis {
+    background-color: #010a16;
+    height: 300px;
+}
+
+
+.mult {
+    height: 320px;
+    width: 500px;
+}
+
+img.foot {
+    width: 150px;
+    margin-top: 200px;
+    margin-left: 70px;
+}
+
+
